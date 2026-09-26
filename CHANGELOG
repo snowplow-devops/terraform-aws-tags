@@ -1,6 +1,7 @@
 Version 0.2.2 (2026-09-26)
 --------------------------
 Update GitHub Actions to Node 24 and pin to commit SHAs
+Update Go to 1.27 and upgrade dependencies to fix known CVEs
 
 Version 0.2.1 (2023-02-20)
 --------------------------
